@@ -1,5 +1,6 @@
 # Plan SEO + Contenido LinkedIn — Certificado Médico Virtual
 **Dr. Felipe Mejía · Manizales, Colombia · actualizado 2026-07-02**
+_Última revisión de estado: 2026-07-02_
 
 ---
 
@@ -22,21 +23,21 @@
 | Mobile navigation | ✅ |
 | Página /au-pair | ✅ |
 | Google Business Profile | ⬜ Pendiente |
-| Google Search Console | ⬜ Pendiente |
+| Google Search Console | ✅ Verificado — sitemap enviado, indexación solicitada |
+| Home indexada en Google | ✅ Confirmado 2026-07-02 |
+| `/au-pair` indexación solicitada | ⏳ En cola — Google pendiente de rastrear (1–4 días) |
 | Páginas de servicio adicionales | ⬜ Pendiente |
 | Link building local | ⬜ Pendiente |
 
 ---
 
-### Acción inmediata — Google Search Console
+### ~~Acción inmediata — Google Search Console~~ ✅ Completado 2026-07-02
 
-1. Entrar a [search.google.com/search-console](https://search.google.com/search-console)
-2. Agregar propiedad: `certificadomedicovirtual.com`
-3. Verificar por DNS (GoDaddy tiene integración directa)
-4. Enviar sitemap: `https://certificadomedicovirtual.com/sitemap.xml`
-5. Inspeccionar URL raíz y `/au-pair` para forzar indexación
-
-**Impacto:** Google indexa las páginas en días en lugar de semanas.
+- Propiedad verificada: `certificadomedicovirtual.com`
+- Sitemap enviado: `https://certificadomedicovirtual.com/sitemap.xml`
+- Home (`/`) indexada y confirmada en Google ✅
+- `/au-pair` — indexación solicitada manualmente, pendiente de rastreo ⏳
+- **Próxima revisión:** volver en 7 días para confirmar indexación de `/au-pair` y ver primeras impresiones en Rendimiento
 
 ---
 
