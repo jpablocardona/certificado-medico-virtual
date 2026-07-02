@@ -1,6 +1,6 @@
 # Certificado Médico Virtual
 
-Sitio web estático para Certificado Médico Virtual — Dr. Felipe Mejia, Manizales, Colombia.
+Sitio web estático para Certificado Médico Virtual — Dr. Felipe Mejía, Manizales, Colombia.
 
 Certificados médicos ocupacionales virtuales: contratación, afiliación ARL, ingreso, egreso, exámenes periódicos y certificados Au Pair.
 

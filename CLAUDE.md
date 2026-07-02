@@ -4,7 +4,7 @@ Contexto para Claude (o cualquier LLM) trabajando en este repositorio.
 
 ## Qué es esto
 
-Sitio web estático de **Certificado Médico Virtual** — Dr. Felipe Mejia, servicios de certificación médica ocupacional virtual en Manizales, Caldas, Colombia.
+Sitio web estático de **Certificado Médico Virtual** — Dr. Felipe Mejía, servicios de certificación médica ocupacional virtual en Manizales, Caldas, Colombia.
 
 Dominio de producción: `certificadomedicovirtual.com` (registrado en GoDaddy).
 
