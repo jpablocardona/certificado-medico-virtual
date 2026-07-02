@@ -1,4 +1,35 @@
 // Certificado Médico Virtual — animaciones de scroll
+
+// Hamburger menu
+(function () {
+  var toggle = document.getElementById("nav-toggle");
+  var nav = document.getElementById("site-nav");
+  if (!toggle || !nav) return;
+
+  toggle.addEventListener("click", function () {
+    var isOpen = nav.classList.toggle("is-open");
+    toggle.setAttribute("aria-expanded", isOpen ? "true" : "false");
+    toggle.setAttribute("aria-label", isOpen ? "Cerrar menú" : "Abrir menú");
+  });
+
+  // Cerrar al hacer clic en un enlace del menú
+  nav.querySelectorAll("a").forEach(function (link) {
+    link.addEventListener("click", function () {
+      nav.classList.remove("is-open");
+      toggle.setAttribute("aria-expanded", "false");
+      toggle.setAttribute("aria-label", "Abrir menú");
+    });
+  });
+
+  // Cerrar al hacer clic fuera
+  document.addEventListener("click", function (e) {
+    if (!nav.contains(e.target) && !toggle.contains(e.target)) {
+      nav.classList.remove("is-open");
+      toggle.setAttribute("aria-expanded", "false");
+      toggle.setAttribute("aria-label", "Abrir menú");
+    }
+  });
+})();
 (function () {
   var prefersReducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
