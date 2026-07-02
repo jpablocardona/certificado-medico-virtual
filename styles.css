@@ -829,6 +829,22 @@ a{color:inherit;}
   .hours-inner{grid-template-columns:1fr;}
 }
 
+/* ===== Au Pair explainer ===== */
+.aupair-explainer{
+  max-width:680px;
+  margin:0 auto;
+  display:flex;
+  flex-direction:column;
+  gap:18px;
+}
+.aupair-explainer p{
+  font-size:1rem;
+  color:var(--muted);
+  line-height:1.7;
+  margin:0;
+}
+.aupair-explainer strong{color:var(--ink);}
+
 /* ===== Footer ===== */
 .site-footer{
   background:var(--forest);
