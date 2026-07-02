@@ -1,6 +1,6 @@
 # Plan SEO + Contenido LinkedIn — Certificado Médico Virtual
 **Dr. Felipe Mejía · Manizales, Colombia · actualizado 2026-07-02**
-_Última revisión de estado: 2026-07-02_
+_Última revisión de estado: 2026-07-02 — Google Business Profile creado y en verificación_
 
 ---
 
@@ -22,7 +22,7 @@ _Última revisión de estado: 2026-07-02_
 | HTTPS / SSL | ✅ |
 | Mobile navigation | ✅ |
 | Página /au-pair | ✅ |
-| Google Business Profile | ⬜ Pendiente |
+| Google Business Profile | ⏳ Creado 2026-07-02 — en verificación (hasta 5 días) |
 | Google Search Console | ✅ Verificado — sitemap enviado, indexación solicitada |
 | Home indexada en Google | ✅ Confirmado 2026-07-02 |
 | `/au-pair` indexación solicitada | ⏳ En cola — Google pendiente de rastrear (1–4 días) |
@@ -41,18 +41,23 @@ _Última revisión de estado: 2026-07-02_
 
 ---
 
-### Acción inmediata — Google Business Profile
+### ~~Acción inmediata — Google Business Profile~~ ✅ Completado 2026-07-02
 
-1. Entrar a [business.google.com](https://business.google.com)
-2. Buscar si ya existe un perfil del Dr. Mejía — si existe, reclamarlo
-3. Categoría principal: **Médico ocupacional**
-4. Completar:
-   - Nombre: *Certificado Médico Virtual — Dr. Felipe Mejía*
-   - Teléfono: 312 208 6535
-   - Web: certificadomedicovirtual.com
-   - Horarios: Lun–Vie 8–5:30 / Sáb 8–1
-   - Descripción (160 car.): *Exámenes médicos ocupacionales virtuales en Manizales. Certificados para contrato, ARL, ingreso, egreso y Au Pair. Documento el mismo día. 15 años de experiencia.*
-5. Pedir a Carolina R. y Andrés M. que dejen su reseña con link directo
+**Configuración realizada:**
+- Nombre: *Certificado Médico Virtual — Dr. Felipe Mejía*
+- Categoría: Médico laboral
+- Tipo: Empresa de servicios (sin dirección física pública)
+- Áreas de servicio: Manizales, Caldas, Quindío, Risaralda, Colombia
+- Horarios: Lun–Vie 8:00–5:30 p.m. / Sáb 8:00 a.m.–1:00 p.m.
+- Teléfono: 312 208 6535
+- Web: certificadomedicovirtual.com
+- Foto: OG image del sitio (1200×630)
+- Descripción: *Exámenes médicos ocupacionales virtuales en Manizales. Certificados para contrato, ARL, ingreso, egreso y Au Pair. Documento el mismo día. 15 años de experiencia.*
+
+**Pendiente:**
+- [ ] Verificación del perfil (hasta 5 días hábiles — Google enviará código)
+- [ ] Una vez verificado: solicitar reseña a Carolina R. y a Andrés M. con link directo al perfil
+- [ ] Actualizar `aggregateRating.reviewCount` en JSON-LD de `index.html` cuando se agreguen reseñas nuevas
 
 **Impacto:** Aparece en el mapa de Google antes que cualquier resultado web.
 
