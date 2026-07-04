@@ -1,6 +1,6 @@
 # Plan SEO + Contenido LinkedIn — Certificado Médico Virtual
-**Dr. Felipe Mejía · Manizales, Colombia · actualizado 2026-07-02**
-_Última revisión de estado: 2026-07-02 — Google Business Profile creado y en verificación_
+**Dr. Felipe Mejía · Manizales, Colombia · actualizado 2026-07-04**
+_Última revisión de estado: 2026-07-04 — retirado el servicio Au Pair; el sitio es exclusivamente de certificados médicos ocupacionales_
 
 ---
 
@@ -21,11 +21,9 @@ _Última revisión de estado: 2026-07-02 — Google Business Profile creado y en
 | Sitemap con lastmod | ✅ |
 | HTTPS / SSL | ✅ |
 | Mobile navigation | ✅ |
-| Página /au-pair | ✅ |
 | Google Business Profile | ⏳ Creado 2026-07-02 — en verificación (hasta 5 días) |
 | Google Search Console | ✅ Verificado — sitemap enviado, indexación solicitada |
 | Home indexada en Google | ✅ Confirmado 2026-07-02 |
-| `/au-pair` indexación solicitada | ⏳ En cola — Google pendiente de rastrear (1–4 días) |
 | Páginas de servicio adicionales | ⬜ Pendiente |
 | Link building local | ⬜ Pendiente |
 
@@ -36,8 +34,8 @@ _Última revisión de estado: 2026-07-02 — Google Business Profile creado y en
 - Propiedad verificada: `certificadomedicovirtual.com`
 - Sitemap enviado: `https://certificadomedicovirtual.com/sitemap.xml`
 - Home (`/`) indexada y confirmada en Google ✅
-- `/au-pair` — indexación solicitada manualmente, pendiente de rastreo ⏳
-- **Próxima revisión:** volver en 7 días para confirmar indexación de `/au-pair` y ver primeras impresiones en Rendimiento
+- **Nota:** la página `/au-pair` fue retirada del sitio (2026-07-04). Solicitar a Google la eliminación de la URL en Search Console (Retiradas) y, si el hosting lo permite, configurar un 301 de `/au-pair` a la home para no dejar un 404.
+- **Próxima revisión:** volver en 7 días para ver primeras impresiones en Rendimiento
 
 ---
 
@@ -52,7 +50,7 @@ _Última revisión de estado: 2026-07-02 — Google Business Profile creado y en
 - Teléfono: 312 208 6535
 - Web: certificadomedicovirtual.com
 - Foto: OG image del sitio (1200×630)
-- Descripción: *Exámenes médicos ocupacionales virtuales en Manizales. Certificados para contrato, ARL, ingreso, egreso y Au Pair. Documento el mismo día. 15 años de experiencia.*
+- Descripción: *Exámenes médicos ocupacionales virtuales en Manizales. Certificados para contrato, ARL, ingreso, egreso y exámenes periódicos. Documento el mismo día. 15 años de experiencia.*
 
 **Pendiente:**
 - [ ] Verificación del perfil (hasta 5 días hábiles — Google enviará código)
@@ -131,7 +129,7 @@ Meta a 3 meses: aparecer en top 10 para "examen médico ocupacional virtual Mani
 - **Frecuencia:** 1 publicación por semana, mismo día (sugerido: martes o miércoles).
 - **Formato:** texto + máximo 1 imagen o carrusel simple. Sin videos por ahora.
 - **CTA siempre:** cada publicación termina con una acción — escribir por WhatsApp, visitar el sitio, o guardar la publicación.
-- **Audiencia primaria:** profesionales de RR.HH., coordinadores SST, contratistas independientes, jóvenes Au Pair.
+- **Audiencia primaria:** profesionales de RR.HH., coordinadores SST, contratistas independientes, trabajadores que inician o terminan vínculo laboral.
 
 ---
 
@@ -144,7 +142,7 @@ Meta a 3 meses: aparecer en top 10 para "examen médico ocupacional virtual Mani
 >
 > No porque sea más fácil. Sino porque la norma ya lo permite (Res. 1843/2025) y porque los trabajadores colombianos pierden medio día de trabajo por un trámite que puede resolverse en 30 minutos desde casa.
 >
-> Esto es lo que hago y por qué lo hago. Si necesitas un certificado médico para contrato, ARL o Au Pair, escríbeme directamente.
+> Esto es lo que hago y por qué lo hago. Si necesitas un certificado médico para contrato, ARL, ingreso o egreso, escríbeme directamente.
 >
 > 👉 certificadomedicovirtual.com
 
@@ -187,14 +185,13 @@ Meta a 3 meses: aparecer en top 10 para "examen médico ocupacional virtual Mani
 #### Semana 4 — Educación (tipos de examen)
 **Formato:** Lista o carrusel
 
-> 6 tipos de certificado médico ocupacional que puedes obtener de forma virtual:
+> 5 tipos de certificado médico ocupacional que puedes obtener de forma virtual:
 >
 > 1. **Ingreso / contratación** — Para comenzar un nuevo trabajo
 > 2. **Egreso** — Al terminar una relación laboral
 > 3. **Afiliación ARL** — Para afiliarte como independiente
 > 4. **Periódico** — Durante tu vínculo laboral activo
-> 5. **Au Pair** — Para programas de intercambio cultural en el exterior
-> 6. **Profesiograma** — Informe de condiciones de salud según tu cargo
+> 5. **Profesiograma** — Informe de condiciones de salud según tu cargo
 >
 > ¿Cuál necesitas?
 
@@ -238,18 +235,20 @@ Meta a 3 meses: aparecer en top 10 para "examen médico ocupacional virtual Mani
 
 ---
 
-#### Semana 7 — Au Pair (audiencia joven)
-**Formato:** Texto + enlace a la página /au-pair
+#### Semana 7 — Qué es un profesiograma (educación)
+**Formato:** Texto + imagen o carrusel simple
 
-> Si estás aplicando a un programa Au Pair, en algún punto del proceso tu agencia va a pedirte un certificado médico.
+> "¿Qué es un profesiograma y por qué mi empresa me lo pide?"
 >
-> Muchos candidatos colombianos no saben que pueden obtenerlo de forma virtual — sin ir a una clínica, sin esperar semanas.
+> Es un informe que relaciona las condiciones de salud de un trabajador con las exigencias reales de su cargo: qué riesgos enfrenta, qué aptitudes requiere y si su estado de salud es compatible con esas tareas.
 >
-> El documento se emite el mismo día de la consulta. Acepto el formato que exija tu agencia.
+> No es lo mismo que un certificado de ingreso. Muchas empresas y coordinadores de SST lo exigen para cumplir con la normativa de seguridad y salud en el trabajo.
 >
-> Más información: certificadomedicovirtual.com/au-pair
+> Si necesitas un profesiograma según el cargo y el nivel de riesgo, escríbeme y te explico qué aplica en tu caso.
+>
+> 📲 312 208 6535
 
-**Objetivo:** Capturar segmento Au Pair. Audiencia joven con alta intención de compra.
+**Objetivo:** Capturar búsquedas informacionales sobre profesiograma + abrir canal con RR.HH./SST, que suelen ser clientes recurrentes.
 
 ---
 
@@ -338,7 +337,6 @@ Meta a 3 meses: aparecer en top 10 para "examen médico ocupacional virtual Mani
 ### Temas de reserva (para semanas adicionales o reemplazos)
 
 - Diferencias entre examen de ingreso, periódico y egreso — ¿cuándo aplica cada uno?
-- Qué es un profesiograma y por qué algunas empresas lo exigen
 - Preguntas que hace el médico en un examen ocupacional virtual
 - Cómo las ARLs están adoptando la telemedicina
 - Diferencia entre médico general y médico ocupacional para certificaciones
