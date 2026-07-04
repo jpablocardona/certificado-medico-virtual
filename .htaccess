@@ -1,0 +1,8 @@
+# Redirecciones — solo aplica en hosting Apache (ej. GoDaddy cPanel).
+# En GitHub Pages este archivo se ignora; la redirección de /au-pair la
+# maneja el stub au-pair.html (redirección de cliente).
+
+# El servicio Au Pair fue retirado. Redirigir la URL antigua a la home
+# con un 301 permanente para preservar el SEO y evitar 404.
+Redirect 301 /au-pair https://certificadomedicovirtual.com/
+Redirect 301 /au-pair.html https://certificadomedicovirtual.com/
