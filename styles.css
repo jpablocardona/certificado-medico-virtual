@@ -288,6 +288,7 @@ a{color:inherit;}
   display:block;
   width:100%;
   height:auto;
+  aspect-ratio:602 / 1203;
   filter:drop-shadow(-10px 22px 18px rgba(11,61,58,.22)) drop-shadow(0 4px 6px rgba(11,61,58,.12));
 }
 .hero-portrait-badge{
