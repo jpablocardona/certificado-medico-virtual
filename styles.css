@@ -734,6 +734,21 @@ a{color:inherit;}
   transition:transform .15s ease;
 }
 .whatsapp-float:hover{transform:scale(1.06);}
+.whatsapp-float-badge{
+  position:absolute;
+  top:-4px;
+  left:-4px;
+  width:22px;
+  height:22px;
+  border-radius:50%;
+  background:var(--gold);
+  border:2px solid var(--bone);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  padding:3px;
+  box-shadow:0 2px 6px rgba(0,0,0,0.18);
+}
 
 @media (prefers-reduced-motion: reduce){
   .whatsapp-float:hover{transform:none;}
